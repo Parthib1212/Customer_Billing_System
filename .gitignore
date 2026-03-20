@@ -1,0 +1,6 @@
+billing
+main
+*.dat
+*.dSYM/
+.DS_Store
+.vscode/
